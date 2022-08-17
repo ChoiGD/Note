@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "폴더2/2022-08-17.md",
+            "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "폴더2/2022-08-17.md",
+                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "폴더2/2022-08-17.md",
+                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "폴더2/2022-08-17.md"
+                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md"
               }
             }
           }
@@ -129,6 +129,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c790ce3d8bee7705",
+  "active": "4b0a9fb106713dd2",
   "lastOpenFiles": []
 }
