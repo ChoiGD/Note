@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md"
+                "file": "README.md"
               }
             }
           }
@@ -130,5 +129,7 @@
     "collapsed": true
   },
   "active": "c790ce3d8bee7705",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md"
+  ]
 }
