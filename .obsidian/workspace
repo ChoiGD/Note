@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c7c41f851cbcb763",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md"
               }
             }
           }
@@ -128,8 +140,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c790ce3d8bee7705",
+  "active": "c7c41f851cbcb763",
   "lastOpenFiles": [
-    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md"
+    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+    "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+    "README.md"
   ]
 }
