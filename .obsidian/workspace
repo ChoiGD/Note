@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/3. this.md",
+            "file": "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "90cf1bfc84df6705",
+        "id": "627fafcef3027550",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/3. this.md",
+            "file": "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b38bd466e458d77",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/3. this.md",
+                "file": "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/3. this.md",
+                "file": "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/3. this.md"
+                "file": "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md"
               }
             }
           }
@@ -143,8 +142,10 @@
   },
   "active": "0a2fe002b44aa412",
   "lastOpenFiles": [
-    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+    "코어 자바스크립트(Core JavaScript)/3. this.md",
     "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+    "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
     "README.md"
   ]
 }
