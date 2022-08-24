@@ -6,24 +6,22 @@
       {
         "id": "0a2fe002b44aa412",
         "type": "leaf",
-        "dimension": 72.10682492581603,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
+            "file": "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "4801da8029d9da3c",
+        "id": "a1f4db8999d73752",
         "type": "leaf",
-        "dimension": 27.89317507418398,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
+            "file": "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
+                "file": "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
+                "file": "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md"
+                "file": "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md"
               }
             }
           }
@@ -144,10 +142,12 @@
   },
   "active": "0a2fe002b44aa412",
   "lastOpenFiles": [
-    "코어 자바스크립트(Core JavaScript)/3. this.md",
+    "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
+    "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
     "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
-    "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
     "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+    "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+    "코어 자바스크립트(Core JavaScript)/3. this.md",
     "README.md"
   ]
 }
