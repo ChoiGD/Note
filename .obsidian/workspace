@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e7446c5b68e4f7ab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
+            "file": "JavaScript 알고리즘/1. Big O.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+                "file": "JavaScript 알고리즘/1. Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+                "file": "JavaScript 알고리즘/1. Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md"
+                "file": "JavaScript 알고리즘/1. Big O.md"
               }
             }
           }
@@ -142,14 +130,15 @@
   },
   "active": "ac64cdf909106bc0",
   "lastOpenFiles": [
-    "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+    "big O.jpg",
+    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
+    "JavaScript 알고리즘/1. Big O.md",
+    "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
     "코어 자바스크립트(Core JavaScript)/3. this.md",
+    "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
+    "JavaScript 알고리즘.md",
     "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md",
     "코어 자바스크립트(Core JavaScript)/5. 클로저(Closure).md",
-    "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md",
-    "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
-    "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
-    "README.md",
-    "2022-08-24.md"
+    "코어 자바스크립트(Core JavaScript)/6. 프로토타입(Prototype).md"
   ]
 }
