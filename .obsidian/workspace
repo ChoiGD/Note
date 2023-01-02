@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 알고리즘/1. Big O.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 알고리즘/1. Big O.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript 알고리즘/1. Big O.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 알고리즘/1. Big O.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac64cdf909106bc0",
+  "active": "d0c97508d571cfde",
   "lastOpenFiles": [
+    "JavaScript 알고리즘/1. Big O.md",
     "big O.jpg",
     "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
-    "JavaScript 알고리즘/1. Big O.md",
     "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
     "코어 자바스크립트(Core JavaScript)/3. this.md",
     "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
