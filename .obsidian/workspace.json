@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL 정리/1.문자열 함수.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL 정리/1.문자열 함수.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL 정리/1.문자열 함수.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a4d2d9571a3dd05",
+  "active": "118825654a5a4e06",
   "lastOpenFiles": [
-    "README.md",
     "MySQL 정리/1.문자열 함수.md",
+    "README.md",
     "JavaScript 알고리즘/1. Big O.md",
     "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
     "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
