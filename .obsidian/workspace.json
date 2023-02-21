@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "81bac2034935ff53",
+        "id": "5fa921fa4fe2b94e",
         "type": "tabs",
         "children": [
           {
-            "id": "ac64cdf909106bc0",
+            "id": "943992e6c3b60e40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript 알고리즘/1. Big O.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118825654a5a4e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a4d2d9571a3dd05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL 정리/1.문자열 함수.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,17 +138,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "118825654a5a4e06",
+  "active": "d0c97508d571cfde",
   "lastOpenFiles": [
     "MySQL 정리/1.문자열 함수.md",
-    "README.md",
     "JavaScript 알고리즘/1. Big O.md",
+    "MySQL 정리/2.선택사항.md",
+    "README.md",
     "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
     "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
     "big O.jpg",
     "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
     "코어 자바스크립트(Core JavaScript)/3. this.md",
-    "JavaScript 알고리즘.md",
-    "코어 자바스크립트(Core JavaScript)/4. 콜백함수(Callback Function).md"
+    "JavaScript 알고리즘.md"
   ]
 }
