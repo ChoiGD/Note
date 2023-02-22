@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad1b7dd519142d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL 정리/4.데이터 유형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862497f1a78dd7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL 정리/5.논리 연산.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL 정리/3.집계 함수.md",
+                "file": "MySQL 정리/5.논리 연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL 정리/3.집계 함수.md",
+                "file": "MySQL 정리/5.논리 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL 정리/3.집계 함수.md"
+                "file": "MySQL 정리/5.논리 연산.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8e47d215ef1d9f7a",
+  "active": "862497f1a78dd7e0",
   "lastOpenFiles": [
-    "MySQL 정리/2.선택 사항.md",
+    "MySQL 정리/4.데이터 유형.md",
     "MySQL 정리/3.집계 함수.md",
+    "MySQL 정리/5.논리 연산.md",
+    "MySQL 정리/2.선택 사항.md",
     "MySQL 정리/1.문자열 함수.md",
-    "JavaScript 알고리즘/1. Big O.md",
-    "README.md",
+    "코어 자바스크립트(Core JavaScript)/3. this.md",
     "코어 자바스크립트(Core JavaScript)/2. 실행 컨텍스트(Execution Context).md",
     "코어 자바스크립트(Core JavaScript)/1. 데이터 타입(Data Type).md",
-    "big O.jpg",
-    "코어 자바스크립트(Core JavaScript)/7. 클래스(Class).md",
-    "코어 자바스크립트(Core JavaScript)/3. this.md"
+    "JavaScript 알고리즘/1. Big O.md",
+    "README.md"
   ]
 }
