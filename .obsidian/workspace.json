@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL 정리/4.데이터 유형.md",
+                "file": "MySQL 정리/2.선택 사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL 정리/4.데이터 유형.md",
+                "file": "MySQL 정리/2.선택 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL 정리/4.데이터 유형.md",
+                "file": "MySQL 정리/2.선택 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL 정리/4.데이터 유형.md"
+                "file": "MySQL 정리/2.선택 사항.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "f62e4c8fee26da80",
   "lastOpenFiles": [
+    "MySQL 정리/3.집계 함수.md",
+    "MySQL 정리/4.데이터 유형.md",
     "MySQL 정리/5.논리 연산.md",
     "MySQL 정리/6.데이터 관계.md",
-    "MySQL 정리/4.데이터 유형.md",
-    "MySQL 정리/3.집계 함수.md",
     "MySQL 정리/2.선택 사항.md",
     "MySQL 정리/1.문자열 함수.md",
     "코어 자바스크립트(Core JavaScript)/3. this.md",
